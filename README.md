@@ -10,6 +10,8 @@ Setting Up the Virtual Environment
 Create and Activate the Virtual Environment
 Create the virtual environment (if not already created):
 
+NOTE: This project already contains a virtual environment and can be directly activated. 
+
 ```python3 -m venv virtual```
 
 Activate the virtual environment:
