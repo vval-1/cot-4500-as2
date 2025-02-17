@@ -30,4 +30,4 @@ To execute the program, navigate to the src folder and run the following command
 
 ```cd src```
 
-```python3 -m test.test_assignment2```
+```python3 -m test.test_assignment_2```
